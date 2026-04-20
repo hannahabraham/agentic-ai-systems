@@ -12,3 +12,6 @@ This project implements an agentic RAG-based customer support system that automa
 It uses a GROQ-powered LLM to classify query type (billing, technical, general) and detect sentiment for intelligent decision-making.
 Queries are answered using category-specific vector databases for accurate retrieval.
 Negative or complex cases are escalated to human agents, ensuring efficient and reliable support.
+
+
+Reference : https://github.com/dipanjanS/building-effective-agentic-ai-systems-dhs2025
