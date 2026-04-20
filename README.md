@@ -13,7 +13,7 @@ It uses a GROQ-powered LLM to classify query type (billing, technical, general) 
 Queries are answered using category-specific vector databases for accurate retrieval.
 Negative or complex cases are escalated to human agents, ensuring efficient and reliable support.
 
-## 3_multi_server_mcp_architecture_for_ai__agents.ipynb
+## 3_Multi_Server_MCP_Architecture_for_AI_Agents.ipynb
 This notebook demonstrates how to build a multi-server MCP architecture for AI agents.  
 It sets up separate Finance and HR MCP servers with domain-specific tools.  
 A unified MCP client connects to both servers and dynamically discovers available tools.  
